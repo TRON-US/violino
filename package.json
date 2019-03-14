@@ -1,0 +1,24 @@
+{
+  "name": "violino",
+  "version": "1.0.0",
+  "description": "A connection of common tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TRON-US/violino.git"
+  },
+  "author": "Francesco Sullo <francesco@tron.network>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TRON-US/violino/issues"
+  },
+  "homepage": "https://github.com/TRON-US/violino#readme",
+  "dependencies": {
+    "aws-sdk": "^2.421.0",
+    "bluebird": "^3.5.3",
+    "lodash": "^4.17.11"
+  }
+}
