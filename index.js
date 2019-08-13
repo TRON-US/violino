@@ -1,6 +1,6 @@
 module.exports.AwsMeta = require('./lib/AwsMeta')
 module.exports.cmdExec = require('./lib/cmdExec')
-module.exports.db = require('./lib/db')
+module.exports.levelDb = require('./lib/levelDb')
 module.exports.EC2 = require('./lib/EC2')
 module.exports.errors = require('./lib/errors')
 module.exports.fs = require('./lib/fs')
