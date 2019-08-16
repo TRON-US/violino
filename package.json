@@ -1,6 +1,6 @@
 {
   "name": "violino",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A set of common tools",
   "main": "index.js",
   "scripts": {
@@ -19,6 +19,7 @@
   "dependencies": {
     "aws-sdk": "^2.509.0",
     "bluebird": "^3.5.5",
+    "camel-case": "^3.0.0",
     "chalk": "^2.4.2",
     "express": "^4.17.1",
     "fs-extra": "^8.1.0",
